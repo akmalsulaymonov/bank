@@ -1,3 +1,3 @@
-module github.com/aki8787/bank
+module github.com/aki8787/bank/v2
 
 go 1.16
